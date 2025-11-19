@@ -1,0 +1,32 @@
+[
+  {
+    "id": "456",
+    "name": "Sanny",
+    "studentClass": "9F",
+    "grades": {}
+  },
+  {
+    "id": "789",
+    "name": "Caylie",
+    "studentClass": "9F",
+    "grades": {}
+  },
+  {
+    "id": "909",
+    "name": "Cheryl",
+    "studentClass": "9F",
+    "grades": {}
+  },
+  {
+    "id": "123",
+    "name": "Feny",
+    "studentClass": "9F",
+    "grades": {}
+  },
+  {
+    "id": "22",
+    "name": "Fanny",
+    "studentClass": "8D",
+    "grades": {}
+  }
+]
